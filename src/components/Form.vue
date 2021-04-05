@@ -181,8 +181,6 @@ h1 {
   color: white;
 }
 .add {
-  padding-top: 2px;
-  margin-left: 5%;
 }
 #type {
   margin-left: 26px;
@@ -201,7 +199,7 @@ h1 {
   border-radius: 5px;
   margin-bottom: 10px;
 }
-@media screen and (max-width: 1063px) {
+@media screen and (max-width: 1336px) {
   #form-data {
     display: flex;
     flex-direction: column;
